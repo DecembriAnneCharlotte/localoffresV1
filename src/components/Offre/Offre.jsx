@@ -9,7 +9,7 @@ const Offre = (props) => {
             <img src={props.image} alt='Photo des salles à louer'></img>
             <p>Prix : {props.prix} €</p>
             <p>Surface : {props.surface} m2</p>
-            <input type='checkbox' className="heart"/>
+            <input type='checkbox' className="heart" id='heart'/>
             <label for="heart">❤</label>    
         </article>
     </div>
