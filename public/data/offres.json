@@ -2,70 +2,70 @@
     {
         "id":1,
         "coordinates":[51.505, -0.09],
-        "location": "adresse1",
-        "prix": "180 €",
-        "surface": "300 m2",
+        "location": "136 Av. de Buros, 64000 Pau",
+        "prix": 180 ,
+        "surface": 300,
         "image":"https://storage.googleapis.com/stateless-www-ecocup-com/2019/09/beaa1054-salle_fetes.jpg"
     },
     {
         "id":2,
         "coordinates":[51.588, -0.08],
-        "location": "adresse2",
-        "prix": "180 €",
-        "surface": "300 m2",
+        "location": "8 Pl. Jean Baptiste Bareille, 64000 Pau",
+        "prix": 50,
+        "surface": 85,
         "image":"https://www.kiwiiz.fr/img/ssrubr/location-salle-reception.jpg"
     },
     {
         "id":3,
         "coordinates":[51.575, -0.05],
-        "location": "adresse3",
-        "prix": "180 €",
-        "surface": "300 m2",
+        "location": "61 Av. Trespoey, 64000 Pau",
+        "prix": 98,
+        "surface": 120,
         "image":"https://www.ivry94.fr/fileadmin/_processed_/a/4/csm_Les_autres_salles_louer_sommaire-1500_41c9b47336.jpg?&modified_at=1533652928&width=483"
 
     },
     {
         "id":4,
         "coordinates":[51.491, -0.10],
-        "location": "adresse4",
-        "prix": "180 €",
-        "surface": "300 m2",
+        "location": "12 Rue Valéry Meunier, 64000 Pau",
+        "prix": 35,
+        "surface": 275,
         "image":"https://image.jimcdn.com/app/cms/image/transf/dimension=870x10000:format=jpg/path/s3e5d6ab1429218db/image/i01acf3a181210c76/version/1693605182/image.jpg"
 
     },
     {
         "id":5,
         "coordinates":[51.485, -0.06],
-        "location": "adresse5",
-        "prix": "180 €",
-        "surface": "300 m2",
+        "location": "4 Av. du Tonkin, 64140 Billère",
+        "prix": 128,
+        "surface": 65,
         "image":"https://static.neopse.com/medias/p/2249/site/ec/84/66/ec8466c1c58baccb89ad6d5769b5529baf7a5ddb.jpg?v=v1"
 
     },
     {
         "id":6,
         "coordinates":[51.468, -0.12],
-        "location": "adresse6",
-        "prix": "180 €",
-        "surface": "300 m2",
+        "location": "2 Av. de l'Europe, 64320 Bizanos",
+        "prix": 98,
+        "surface": 165,
         "image":"https://blog.swimmy.fr/wp-content/uploads/2021/05/Sans-titre-11.jpg?x93130"
 
     },
     {
         "id":7,
         "coordinates":[51.529, -0.09],
-        "location": "adresse7",
-        "prix": "180 €",
-        "surface": "300 m2",
+        "location": "5 Rue des Sources, 64320 Aressy",
+        "prix": 235,
+        "surface": 525,
         "image":"https://www.mauleon.fr/fr/wp-content/uploads/2022/12/la-passerelle-mauleon.jpg"
 
     },
     {
         "id":8,
         "coordinates":[51.535, -0.07],
-        "location": "adresse8",
-        "prix": "180 €",
-        "surface": "300 m2",
+        "location": "13 Rue Bernadotte, 64000 Pau",
+        "prix": 156,
+        "surface": 268,
         "image":"https://lyon.citycrunch.fr/wp-content/uploads/sites/3/2019/01/Location_salle_de_reunion.jpg"
 
     }
