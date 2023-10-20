@@ -41,7 +41,7 @@ const Map = () => {
                     return (
                     <Marker key={offre.id} position={offre.coordinates} icon={icon}>
                         <Popup key={offre.id}>
-                        {offre.location}<br />{offre.prix}
+                        {offre.location}<br />{offre.prix} €
                         </Popup>
                     </Marker>);
                 })

@@ -1,5 +1,5 @@
 .containOffre{
-    height: 40vh; 
+    height: 50vh; 
     width: 35vh;
     background-color: #9CC8BE;
     margin-top: 1vh;
@@ -15,7 +15,46 @@ img{
 h2{
     text-align: center;
     font-size: 3vh;
+    margin-bottom: 0;
 }
 p{
     margin-left: 14%;
 }
+
+.heart {
+    position: absolute;
+    left: -100vw;
+  }
+
+  [for="heart"] {
+    color: #cd8d9a;
+    cursor: pointer;
+    font-size: 5vh;
+    transition: color 0.2s ease-in-out;
+    margin-left: 10px;
+  }
+  
+  [for="heart"]:hover {
+    color: grey;
+  }
+  
+  [for="heart"]::selection {
+    color: none;
+    background: transparent;
+  }
+  
+  [for="heart"]::moz-selection {
+    color: none;
+    background: transparent;
+  }
+  
+ .heart:checked + label {
+    color: #e2264d;
+    will-change: font-size;
+    animation: heart 1s cubic-bezier(.17, .89, .32, 1.49);
+  }
+  
+  
+  
+  @keyframes heart {0%, 17.5% {font-size: 0;}}
+
