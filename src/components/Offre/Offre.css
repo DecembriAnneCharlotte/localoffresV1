@@ -1,0 +1,21 @@
+.containOffre{
+    height: 40vh; 
+    width: 35vh;
+    background-color: #9CC8BE;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    margin-left: 3vh;
+}
+
+img{
+    height: 20vh; 
+    width: 25vh;
+    margin-left: 14%;
+}
+h2{
+    text-align: center;
+    font-size: 3vh;
+}
+p{
+    margin-left: 14%;
+}

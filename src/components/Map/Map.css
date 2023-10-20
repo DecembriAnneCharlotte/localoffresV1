@@ -1,0 +1,13 @@
+
+.mapCont{
+    height: 75vh; 
+    width: 110vh;
+}
+
+.mapContainer{
+    height: 75vh; 
+    width: 110vh;
+    background-color: #4C8F7F;
+    padding: 2vh;
+    margin-left: 2vh;
+}

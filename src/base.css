@@ -1,0 +1,15 @@
+body{
+    background-color: #202A28;
+}
+h1{
+    /* color: rgb(215, 250, 220); */
+    color: rgb(237, 255, 240);
+    font-size: 7vh;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.container{
+    display: flex;
+    margin-right: 2vh;
+}

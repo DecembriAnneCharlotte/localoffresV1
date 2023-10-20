@@ -1,0 +1,9 @@
+.containList{
+    height: 79vh; 
+    width: 80vh;
+    background-color: #4C8F7F;
+    margin-left: auto;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+}
